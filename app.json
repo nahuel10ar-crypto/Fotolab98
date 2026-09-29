@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "FotoLab",
+    "slug": "fotolab",
+    "version": "0.2.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.nahuel.fotolab"
+    },
+    "plugins": [
+      "expo-image-picker",
+      "expo-media-library"
+    ]
+  }
+}
